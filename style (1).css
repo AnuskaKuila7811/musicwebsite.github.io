@@ -1,0 +1,76 @@
+body{
+    display:block;
+}
+
+#ul{
+    list-style: none;
+    padding-top: .5vw;
+}
+#title{
+    font-size: 3vw;
+    font-weight: 2vw;
+    color: black;
+}
+
+#but{
+    font-size: 2vw;
+    color: white;
+   text-decoration: none;
+}
+
+#music_type{
+    margin-top: 7vw;
+    margin-left: 60%;
+    font-weight: 200px;
+    color: white;
+    padding-top: 1.4vw;
+    background-color:lightcoral;
+    height: 20vw;
+    width: 35vw;
+    border-radius: 2vw;
+    
+}
+.back{
+    color: white;
+    font-size: 2vw;
+    text-decoration: none;
+}
+.back-button{
+    width: 5vw;
+    height: 3vw;
+    padding-left: 1vw;
+    margin-left: 1vw;
+    padding-top: .3vw;
+    background-color:black;
+    margin-top: 2vw;
+    border-radius: .4vw;
+}
+.p{
+font-size: 1.8vw;
+}
+.container{
+    width: 100%;
+    background-size: cover;
+    height: 16vw;
+    color: white;
+    font-size: 4vw;
+}
+#i{
+    max-width: 50%;
+    max-height: 50%;
+    width: 32vw;
+    height: 26vw;
+    border-radius: 1.2vw;
+
+}
+#l{
+    max-width: 40%;
+    max-height: 40%;
+    width: 18vw;
+    height:18vw;
+    margin-left:2vw;
+    border-radius: 1.1vw;
+}
+#s{
+    margin-left: 37vw;
+}

@@ -1,0 +1,10 @@
+.example{
+    font-size: 30px;
+    background-colour: red; 
+   bordere width: 2px solid
+}
+#img{
+    width:30%;
+   display: flex ;
+   margin-left: 30%;
+}
